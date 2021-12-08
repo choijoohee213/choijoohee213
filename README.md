@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=FFB93F&height=180&section=header&text=JooHee%20Choi&fontSize=50&fontColor=ffffff&fontAlignY=40)
-<div align="left">
+
   
 ## **🙋‍♀️ Introduce**
 
