@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=FFB93F&height=180&section=header&text=JooHee%20Choi&fontSize=50&fontColor=ffffff&fontAlignY=40)
 <div align="left">
   
-### **🙋‍♀️ Introduce**
+## **🙋‍♀️ Introduce**
 
 - 호기심이 많아 새로운 것을 배우는 것을 좋아합니다. <br>
 - 한 번 시작한 일은 끝까지 완수하기 위해 열정을 다 합니다.<br>
@@ -10,7 +10,7 @@
 
 <br>
   
-### 🔨 Stacks
+## 🔨 Stacks
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
