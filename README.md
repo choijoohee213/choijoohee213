@@ -1,17 +1,14 @@
 # 성장하는 개발자 🖐
 <br>
   
-## **🙋‍♀️ Introduce**
-
-- 호기심이 많아 새로운 것을 배우는 것을 좋아합니다. <br>
-- 한 번 시작한 일은 끝까지 완수하기 위해 열정을 다 합니다.<br>
-- 꾸준하게 성장할 수 있는 잠재력을 가지고 있습니다. <br>
-- **Backend-Devloper** 를 꿈꾸고 있으며, 현재는 **Java, Spring** 에 관심을 가지고 있습니다.
-
+### **🙋‍♀️ Introduce**
+* 호기심이 많아 새로운 것을 배우는 것을 좋아합니다. <br>
+* 한 번 시작한 일은 끝까지 완수하기 위해 열정을 다 합니다.<br>
+* 꾸준하게 성장할 수 있는 잠재력을 가지고 있습니다. <br>
+* **Backend-Devloper** 를 꿈꾸고 있으며, 현재는 **Java, Spring** 에 관심을 가지고 있습니다.
 <br>
   
-## 🔨 Stacks
-
+### 🔨 Stacks
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
