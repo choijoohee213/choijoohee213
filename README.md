@@ -6,7 +6,13 @@
 * 꾸준하게 성장할 수 있는 잠재력을 가지고 있습니다. <br>
 * **Backend-Devloper** 를 꿈꾸고 있으며, 현재는 **Java, Spring** 에 관심을 가지고 있습니다.
 <br>
-  
+
+### 👩‍💻 Experience
+* 삼성 청년 SW 아카데미 (SSAFY 7기)
+
+
+<br>
+
 ### 🔨 Stacks
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
