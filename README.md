@@ -1,6 +1,7 @@
 # 성장하는 개발자 🖐
   
 ### **🙋‍♀️ Introduce**
+* [Portfolio](https://sunset-offer-934.notion.site/About-me-7c0a494c92b6497eb692a6a02d2cf4af) 
 * 호기심이 많아 새로운 것을 배우는 것을 좋아합니다. <br>
 * 한 번 시작한 일은 끝까지 완수하기 위해 열정을 다 합니다.<br>
 * 꾸준하게 성장할 수 있는 잠재력을 가지고 있습니다. <br>
