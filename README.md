@@ -8,7 +8,7 @@
 <br>
 
 ### 👩‍💻 Experience
-* 삼성 청년 SW 아카데미 (SSAFY 7기) ~ing
+* 삼성 청년 SW 아카데미 (SSAFY 7기) - 22.01.04 ~ ing
 
 
 <br>
