@@ -1,5 +1,7 @@
 # 성장하는 개발자 🖐
-  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choijoohee)](https://solved.ac/choijoohee)
+
 ### **🙋‍♀️ Introduce**
 * [Portfolio](https://sunset-offer-934.notion.site/About-me-7c0a494c92b6497eb692a6a02d2cf4af) 
 * 호기심이 많아 새로운 것을 배우는 것을 좋아합니다. <br>
@@ -30,4 +32,3 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
