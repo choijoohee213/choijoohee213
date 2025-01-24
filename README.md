@@ -3,7 +3,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choijoohee)](https://solved.ac/choijoohee)
 
 ### **🙋‍♀️ Introduce**
-* [Portfolio](https://sunset-offer-934.notion.site/About-me-b6bb64c7d25a42188685ecfe4e1add75) , [기술 블로그](https://codingwell.tistory.com/)
+* [기술 블로그](https://codingwell.tistory.com/)
 * 호기심이 많아 새로운 것을 배우는 것을 좋아합니다. <br>
 * 한 번 시작한 일은 끝까지 완수하기 위해 열정을 다 합니다.<br>
 * 꾸준하게 성장할 수 있는 잠재력을 가지고 있습니다. <br>
