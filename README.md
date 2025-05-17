@@ -12,7 +12,7 @@
 
 ### 👩‍💻 Experience
 * 삼성메디슨(SAMSUNG MEDISON) - 24.01.22 ~ 재직중
-  * AI Vision 그룹 / Volumetric AI Lab / 3D Engine SW 개발
+  * AI & Informatics 그룹 / Volumetric AI Lab / 3D Engine SW 개발
 * 삼성 청년 SW 아카데미 수료 (SSAFY 7기) - 22.01.05 ~ 22.12.30
 
 
